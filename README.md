@@ -1,11 +1,12 @@
 # yal
 
-¿Qué es YAL? pues mi lista de enlaces útiles y *que utilizo* sobre desarrollo de software. 
-Pretendo (a ver si lo consigo) mantenerla actualizada. 
+¿Qué es YAL?: Mi lista de enlaces útiles sobre temas técnicos y desarrollo de software. 
 
-De dónde sale lo de **YAL**?m, pues de ponerle un mote a esta lista. Pensé en 'Yet Another List', 
-pero por hacerla recurrente, ahí va: **Y**AL **A**in't just a **L**ist (en castellano, ‘YAL no es 
-solo una lista’)
+¿De dónde sale lo de **YAL**?. Como hay que ponerle un mote al repositorio pensé en 'Yet Another List', 
+así que la versión final (recurrente es) **Y**AL **A**in't just a **L**ist 
+
+Pues eso, en castellano, YAL = ‘YAL no es solo una lista’, porque pretendo además
+mantenerla viva con lo que *estoy aprendiendo y utilizando*.
 
 ## Los enlaces
 
