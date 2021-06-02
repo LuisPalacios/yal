@@ -13,3 +13,7 @@ En castellano, YAL = ‘YAL no es solo una lista’, pretendo mantenerla viva co
 
 - Python
   - [Learn Python in minutes](https://learnxinyminutes.com/docs/python/)
+
+- Desarrollo de Software
+  - [Popularidad Lenguajes](https://www.tiobe.com/tiobe-index/)
+
